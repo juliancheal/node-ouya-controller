@@ -1,0 +1,26 @@
+{
+  "name": "ouya-controller",
+  "version": "0.0.1",
+  "description": "node library for the ouya controllers",
+  "main": "./lib/ouya-controller.js",
+  
+  "dependencies": {
+    "node-hid": "^0.3",
+    "colors": "^0.6",
+    "joystick": "^0.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juliancheal/node-ouya-controller"
+  },
+  "author": "Julian Cheal",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "ec07ab438dd6cd129000b285f33d8be7c59342b6",
+  "keywords": [
+    "ouya",
+    "controller",
+    "gamepad",
+    "node-hid"
+  ]
+}

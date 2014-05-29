@@ -1,4 +1,4 @@
-var OuyaController = require('./lib/ouya-controller')
+var OuyaController = require('../lib/ouya-controller')
 
 var ouya = new OuyaController
 
